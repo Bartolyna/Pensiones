@@ -1,0 +1,16 @@
+El gobierno de Irlanda ha dado a divulgado el siguiente decreto con la clasificacion de beneficios y retenciones para calcular el valor total mensual devengado por las personas pertenecientes al regimen pensional:
+1. Las personas pensionadas recibiran el valor del ultimo sueldo cotizado mensualmente de manera vitalicia. Este valor sera conocido como mesada regular.
+2. Las personas pensionadas deberan retener un porcentaje de su mesada regular como impuesto al gobierno de la siguiente forma:
+	A. Si la mesada regular es superior/igual a 10 salarios minimos mensuales se debe retener el 0,08% de la mesada regular. Esta retencion sera conocida como Retencion Superior
+	B. Si la mesada regular es superior/igual a 4 y menor que 10 salarios minimos mensuales se debe retener el 0,04% de la mesada regular. Esta retencion sera conocida como Retencion Media
+	B. Si la mesada regular es superior/igual a 2 y menor que 4 salarios minimos mensuales se debe retener el 0,02% de la mesada regular. Esta retencion sera conocida como Retencion Baja
+	Excepcion. Si la mesada regular es menor a 2 salarios minimos mensuales se pagara un bono adicional al pensionado correspondiente al 0,2% de la mesada regular. Esta Excepcion sera conocida como Excepcion de Retencion.
+3. Las personas pensionadas de un trabajo del sector privado tienen derecho a un bono pensional del 4% de la mesada regular siempre y cuando en su liquidacion se haya establecido una Retencion Baja.
+4. Las personas pensionadas de un trabajo del sector publico tienen derecho a un bono pensional del 20% de la mesada regular siempre y cuando en su liquidacion se haya establecido una Retencion Baja y la edad que se tenga al momento de la liquidacion mensual sea 6 años mayor que la edad legal de Jubilacion. 
+5. Las personas pensionadas de un trabajo publico en las fuerzas armadas tienen derecho a un bono pensional del 10%. 
+6. Todas las personas tendran un auxilio de transporte por un valor del 2% del salario minimo mensual.
+
+Se solicita realizar una solucion de software que solicite a un pensionado la informacion requerida para dar a conocer el detalle de los beneficios y retenciones de acuerdo al decreto divulgado, asi como el total del pago de su pension mensual. Teniendo en cuenta que el Salario minimo mensual es 895 IRD, la Edad legal de Jubilacion Mujeres es 60 años y la Edad Legal de Jubilacion Hombres es 70. La modena utilizada es el dolar Irlandes (IRD).
+
+
+
